@@ -44,7 +44,7 @@
 		"chart.js": "3.7.1",
 		"classnames": "2.3.2",
 		"fast-json-stable-stringify": "2.1.0",
-		"lodash": "4.17.21",
+		"lodash": "4.17.23",
 		"photon": "4.0.0",
 		"preact": "10.12.1",
 		"prop-types": "15.7.2",
